@@ -1,0 +1,54 @@
+#Header {
+	margin-left: 10%;
+	color: yellow;
+	font-size: 46px;
+
+}
+
+     
+#searchBtn {
+	font-weight: bold;
+	background-color: yellow;
+	box-sizing: 46px;
+	height: 2.5em;
+	width: 5em;
+	margin-bottom: 0.5cm;
+}
+
+#addBtn {
+	font-weight: bold;
+    background-color: yellow;
+	box-sizing: 46px;
+	height: 2.5em;
+	width: 5em;
+
+}
+
+#todoList{
+ margin-left: 10%;
+ box-sizing: 46px;
+	height: 2.5em;
+}
+#searchTxt{
+   margin-left: 10%;
+   width: 20em;  
+   height: 2.5em;
+
+}
+#addTodoTxt{
+   margin-left: 10%;
+   width: 20em;  
+   height: 2.5em;
+
+}
+#todos {
+	font-size: 30px;
+}
+
+body{
+
+  background-image: url("bg.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-origin: border-box;
+}
